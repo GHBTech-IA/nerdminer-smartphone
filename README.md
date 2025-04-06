@@ -1,3 +1,4 @@
+![NerdMiner Smartphone Edition](./banner-nerdminer.png)
 <<<<<<< HEAD
 # NerdMiner Smartphone
 
